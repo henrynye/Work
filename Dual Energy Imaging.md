@@ -7,6 +7,8 @@ In short, to complete this task two images are needed from different energy leve
 In order to be easily accessed and manipulated, the data should first be reshaped into arrays. The logarithm of all the values should then be taken. As X-rays propogate through a material, the quantity of photons that are absorbed increases exponentially (as shwon in figure 1), therefore taking the log of these values creates a linear relationship which is easier to find as very few points are needed to formulate an equation.
 
 ![alt text](https://teaching.shu.ac.uk/hwb/chemistry/tutorials/molspec/Tvpath.gif "Beer's Law Graph")
+
+Figure 1
 ## Step 2: Sampling
 Taking samples of the image is important, as the image could contain millions of pixels and processing them all would take a lot of time and produce a result that would not necessarily be noticeably better. This could be a random sample, of a size that is appropriate to the images being processed- a low resolution image will not require a large sampe to gain a representitive array of data- but it may make more sense to use a set sample of pixels depending on the nature of your imges. In some images, the background may take up a large section of the data, this is significant as it would then also take up a large section of a random sample and would decrease the accuracy of a predicted image as it would dilute the change in attentuation of X-rays through the actual subject (the change in attenuation through air is effectively linear instead of exponential an image is taken). The only vital point on sampling, is that the same sample of both images is taken, as respective pixels need to be compared. 
 
