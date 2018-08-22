@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ReadTiffPy", "ReadTiffPy\ReadTiffPy.pyproj", "{C11D093A-6AC4-441A-8246-6E0056D55F64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C11D093A-6AC4-441A-8246-6E0056D55F64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C11D093A-6AC4-441A-8246-6E0056D55F64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA2DAAC2-A851-46FA-96E6-10DDC2BC52F7}
+	EndGlobalSection
+EndGlobal
